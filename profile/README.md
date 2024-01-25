@@ -5,7 +5,7 @@
 
 _Uniting mathematicians, econometricians and computer scientists, UNSW DataSoc seeks to empower our members with knowledge and skills of data science, machine learning and artificial intelligence._
 
-[![Visit our Website](https://img.shields.io/badge/Visit%20Our-Website-blue?style=for-the-badge&logo=appveyor)](https://www.unswdata.com/)
+[![Visit our Website](https://img.shields.io/badge/Visit%20Our-Website-blue?style=for-the-badge&logo=appveyor)](https://www.unswdata.com/){:target="_blank"}
 
 
 Here lies the heart of DataSoc's projects involving the Education portfolio :rocket:
